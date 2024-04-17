@@ -11,7 +11,6 @@ const buttonShape = ({
   children,
   handleClick,
 }: childrenProps) => {
-  console.log("hello");
   return (
     <>
       {isButton ? (
